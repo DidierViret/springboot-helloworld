@@ -1,13 +1,13 @@
-package ch.didierviret.springboot_helloworld;
+package ch.didierviret.helloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootHelloworldApplication {
+public class HelloWorldApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootHelloworldApplication.class, args);
+		SpringApplication.run(HelloWorldApplication.class, args);
 	}
 
 }
