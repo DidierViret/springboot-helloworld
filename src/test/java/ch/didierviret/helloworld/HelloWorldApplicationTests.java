@@ -1,4 +1,4 @@
-package ch.didierviret.springboot_helloworld;
+package ch.didierviret.helloworld;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
