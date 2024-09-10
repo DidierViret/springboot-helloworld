@@ -6,4 +6,8 @@ public class HelloWorld  {
     public String toString() {
         return this.value;
     }
+
+    public String getValue() {
+        return value;
+    }
 }
